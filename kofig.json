@@ -5,6 +5,7 @@
     'longitude':15.98,
     'baza' : 'postaja.db',
     'pin_senzora' : 4,
+    'pin_senzora_2' : 8,
     'pin_ventilatora' : 17,
     'prag_temperature' : 25.0,
     'interval_s' : 60,
